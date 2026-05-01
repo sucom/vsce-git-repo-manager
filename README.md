@@ -1,4 +1,4 @@
-# Git Repository Manager
+# Git Repository Manager - VSIX (VS Code Family Extension)
 
 <p>
   <img src="icon.png" alt="Git Repository Manager" width="128"/>
@@ -36,8 +36,12 @@ You can trigger the extension from wherever you are working:
 
 This extension contributes the following settings to tailor it to your needs:
 
-* `spajsGitRepoManager.defaultClickAction`: Sets the default action triggered when left-clicking a repository in the tree. 
-  * Options: `none` (default), `browser` (Open in Browser), `clone` (Clone Repository), `copy` (Copy URL).
+* `spajsGitRepoManager.defaultClickAction`: Sets the default action triggered when left-clicking a repository in the tree.
+  * Options:
+    - `none` (default)
+    - `browser` (Open in Browser)
+    - `clone` (Clone Repository)
+    - `copy` (Copy Repository URL).
 
 ## ✨ Other Related VSIX Family Extensions
 
