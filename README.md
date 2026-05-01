@@ -1,7 +1,7 @@
-# Git Repository Manager - VSIX (VS Code Family Extension)
+# Git Repo Manager - VSIX (VS Code Family Extension)
 
 <p>
-  <img src="icon.png" alt="Git Repository Manager" width="128"/>
+  <img src="icon.png" alt="Git Repo Manager" width="128"/>
 </p>
 
 A lightning-fast, frictionless, zero-dependency, zero-bloat, KISS repository manager that lists your personal and organizations GitHub repositories, allowing you to clone, open in browser, or create new ones if you want to. No more navigating through multiple pages to find the repo you need. Just click and go!
@@ -50,7 +50,7 @@ The VSIX package is available at [Open VSX Registry](https://open-vsx.org/extens
 
 1. Open any VS Code Family Editor (VS Code, Cursor, Windsurf, VSCodium).
 2. Go to Extensions.
-3. Search for `Git Repository Manager` and select this extension.
+3. Search for `Git Repo Manager` and select this extension.
 4. Click **Install**.
 
 ## ✨ Features
@@ -64,7 +64,7 @@ The VSIX package is available at [Open VSX Registry](https://open-vsx.org/extens
 ## 🚀 Usage
 
 You can trigger the extension from wherever you are working:
-- **Sign In:** Click the `Git Repository Manager` icon in the Activity Bar and click the account icon at the top to securely authenticate.
+- **Sign In:** Click the `Git Repo Manager` icon in the Activity Bar and click the account icon at the top to securely authenticate.
 - **Browse:** Expand your `Personal` folder or any listed `Organization` to view your repositories.
 - **Hover Actions:** Hover over a repository to reveal quick actions: `Clone`, `Open in Browser`, and `Copy URL`. (These are also available via right-click context menu).
 - **Create Repo:** Click the `+` icon next to an organization or personal folder to create a new repository under that specific account.
