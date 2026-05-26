@@ -56,6 +56,7 @@ The VSIX package is available at [Open VSX Registry](https://open-vsx.org/extens
 ## ✨ Features
 
 - **Blazing Fast & Lightweight:** Built strictly with Vanilla JavaScript and native APIs. Zero external dependencies, no compilation bloat.
+- **Smart SSH/HTTPS Cloning:** Automatically reads your `~/.ssh/config` to offer precise SSH alias routes or standard HTTPS options via a clean QuickPick menu when cloning.
 - **Unified Repository View:** Access your Personal and Organization repositories in one clean, grouped sidebar panel.
 - **Native Security:** Utilizes the editor's built-in GitHub authentication—no manual PAT setup required.
 - **One-Click Actions:** Hover over any repository to Clone, Open in Browser, or Copy the URL.
@@ -67,6 +68,7 @@ You can trigger the extension from wherever you are working:
 - **Sign In:** Click the `Git Repo Manager` icon in the Activity Bar and click the account icon at the top to securely authenticate.
 - **Browse:** Expand your `Personal` folder or any listed `Organization` to view your repositories.
 - **Hover Actions:** Hover over a repository to reveal quick actions: `Clone`, `Open in Browser`, and `Copy URL`. (These are also available via right-click context menu).
+- **Smart Clone:** Clicking `Clone` opens a QuickPick menu tailored to your local SSH configurations, allowing you to route traffic exactly how you prefer, followed by the native folder destination picker.
 - **Create Repo:** Click the `+` icon next to an organization or personal folder to create a new repository under that specific account.
 - **Manage Accounts:** Use the `Sign Out` or `Switch Account` icons in the panel header to seamlessly swap contexts.
 
